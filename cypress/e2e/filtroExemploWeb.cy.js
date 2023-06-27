@@ -32,7 +32,7 @@ describe('Home Page Desktop', () => {
     cy.get('.transparent-button').click({ force: true }) // btn clear all
     //cy.screenshot('/Users/Desktop/Cypress_sc/screenshots');
 
-    //Esse Código pode ser repetido para cada uma das opções e vericado elementos em tela bem como ScreenShots em cara etapa.
+    //Esse Código pode ser repetido para cada uma das opções e ser verificado os elementos em tela bem como ScreenShots em cada etapa.
 
 })
 })
